@@ -1,0 +1,100 @@
+45158,4/10/10,40,0.09,110,4013.87,Juliana Miller,California,West,Development - Python,1,0.35
+45158,4/10/10,15,0.03,140,2042.02,Juliana Miller,California,West,Development - Database,1,0.49
+45605,4/10/10,7,0.05,125,833.3,Nora Airdo,California,West,Training - Javascript,1,0.58
+53349,4/10/10,46,0.07,125,5360.68,Alejandro Olsen,Ohio,East,Training - Development,1,0.59
+3040,4/11/10,13,0.01,110,1419.22,Tracy Raglin,Florida,South,Development - Python,1,0.38
+7078,4/11/10,9,0.01,170,1518.47,Ricardo Craven,Idaho,West,Development - .Net,1,0.58
+7078,4/11/10,11,0.1,160,1587.94,Ricardo Craven,Idaho,West,Development - Java,1,0.58
+7078,4/11/10,16,0.05,125,1904.73,Ricardo Craven,Idaho,West,Training - Development,1,0.58
+7078,4/11/10,29,0.02,125,3561.34,Ricardo Craven,Idaho,West,Training - SQL,1,0.52
+16643,4/11/10,40,0.01,200,7939.71,Quincy Patterson,Arizona,West,Development - Scala,1,0.72
+16643,4/11/10,46,0.06,110,4768.24,Quincy Patterson,Arizona,West,Development - Python,1,0.54
+29121,4/11/10,31,0.08,150,4288.65,Jack Cacioppo,Indiana,Central,Consulting - Market Research,1,0.55
+52839,4/11/10,8,0.04,120,923.89,Catherine House,Oregon,West,Development - Business Logic,1,0.57
+52839,4/11/10,25,0.1,150,3383.4,Catherine House,Oregon,West,Consulting - Market Research,1,0.5
+55203,4/11/10,18,0.05,150,2571.38,Natalie Pelletier,California,West,Consulting - Market Research,1,0.66
+2272,4/12/10,39,0.08,125,4496.27,Grant Ellison,West Virginia,East,Training - Javascript,1,0.46
+11456,4/12/10,15,0.09,125,1710.54,Doug Cooley,Illinois,Central,Training - SQL,1,0.44
+20899,4/12/10,9,0.04,110,952.79,Arthur Howell,Ohio,East,Development - Python,1,0.45
+45409,4/12/10,11,0.1,125,1240.61,Damala Bern,California,West,Training - Development,1,0.58
+45409,4/12/10,10,0.08,120,1106.78,Damala Bern,California,West,Development - Business Logic,1,0.56
+45409,4/12/10,50,0,150,7518.85,Damala Bern,California,West,Consulting - Market Research,1,0.62
+56001,4/12/10,17,0.08,110,1724.72,Alex Daniels,Kansas,Central,Development - Python,1,0.46
+16932,4/15/10,25,0.09,110,2508.98,Carlos McAfee,Illinois,Central,Development - Python,1,0.38
+16932,4/15/10,20,0.09,120,2189.65,Carlos McAfee,Illinois,Central,Development - Business Logic,1,0.57
+18465,4/15/10,12,0.05,200,2285.9,Laura Hughsby,Ohio,East,Development - Big Data,1,0.65
+19559,4/15/10,31,0.01,110,3384.64,Matthew Lucas,New Mexico,West,Development - Python,1,0.48
+19559,4/15/10,18,0.02,150,2652.85,Matthew Lucas,New Mexico,West,Consulting - Market Research,1,0.59
+19559,4/15/10,14,0.07,150,1958.06,Matthew Lucas,New Mexico,West,Consulting - Market Research,1,0.67
+22629,4/15/10,5,0.05,150,714.34,Sonia Kane,Kansas,Central,Consulting - Business Model,1,0.61
+37318,4/15/10,32,0.07,125,3729.63,Nat Hallsten,Oklahoma,Central,Training - SQL,1,0.4
+37443,4/15/10,50,0.08,170,7840.24,Mark Coyne,MA,East,Development - .Net,1,0.56
+37443,4/15/10,21,0.01,150,3126.57,Mark Coyne,New Jersey,East,Consulting - Market Research,1,0.6
+47524,4/15/10,40,0.08,110,4058.48,Jeremy Watters,North Carolina,South,Development - Python,1,0.45
+47524,4/15/10,8,0.1,150,1082.8,Jeremy Watters,Washington,West,Consulting - Business Model,1,0.59
+54336,4/15/10,50,0.05,125,5952.87,Alejandro O'Connell,California,West,Training - SQL,1,0.64
+772,4/16/10,35,0.08,170,5488.31,Pamela Boeckenhauer,New York,East,Development - .Net,1,0.74
+772,4/16/10,25,0.1,110,2481.47,Pamela Boeckenhauer,New York,East,Development - PHP,1,0.47
+6661,4/16/10,47,0.1,150,6361.58,Clytie Dortch,Oregon,West,Consulting - Compensation,1,0.66
+6661,4/16/10,39,0,125,4887.74,Clytie Dortch,Oregon,West,Training - SQL,1,0.59
+23232,4/16/10,15,0.03,150,2188.2,Penelope Pistole,Florida,South,Consulting - Business Model,1,0.55
+23232,4/16/10,31,0.03,200,6029.72,Penelope Pistole,Florida,South,Development - Scala,1,0.67
+23232,4/16/10,20,0.06,110,2073.4,Penelope Pistole,Florida,South,Development - Python,1,0.55
+56321,4/16/10,24,0.1,160,3465.03,Shahid Bixby,Michigan,Central,Development - Java,1,0.56
+38630,4/17/10,13,0.07,150,1818.28,Vivek Brown,Maryland,East,Consulting - Market Research,1,0.65
+56992,4/18/10,10,0.1,110,992.64,Maria Ferguson,Wisconsin,Central,Development - Python,1,0.53
+4774,4/19/10,4,0.08,150,553.48,Lindsay MacIntyre,Arkansas,South,Consulting - Business Model,1,0.5
+12451,4/19/10,26,0.01,125,3226.15,Thais Roper,Florida,South,Training - Tableau,1,0.54
+12451,4/19/10,21,0.04,200,4042.84,Thais Roper,Florida,South,Development - Big Data,1,0.71
+47078,4/19/10,18,0.06,200,3393.1,Karen Garverick,Alabama,South,Development - Scala,1,0.69
+47078,4/19/10,43,0.01,110,4695.29,Karen Garverick,Alabama,South,Development - Python,1,0.55
+47078,4/19/10,20,0.07,110,2051.5,Karen Garverick,Alabama,South,Development - Python,1,0.44
+7910,4/20/10,41,0.01,125,5087.51,Erica Chand,Pennsylvania,East,Training - SQL,1,0.5
+7910,4/20/10,22,0.08,110,2232.44,Erica Chand,Pennsylvania,East,Development - Python,1,0.54
+9895,4/20/10,9,0.05,120,1028.78,Adam Zic,Montana,West,Development - Business Logic,1,0.44
+11841,4/20/10,44,0.1,110,4367.82,Melanie Mitchum,Texas,Central,Development - Python,1,0.53
+11841,4/20/10,46,0.07,120,5147.53,Melanie Mitchum,Texas,Central,Development - Business Logic,1,0.5
+11846,4/20/10,49,0.03,150,7148.84,Ken Grove,Montana,West,Consulting - Business Model,1,0.6
+11846,4/20/10,28,0.01,200,5559.04,Ken Grove,Montana,West,Development - Big Data,1,0.65
+18758,4/20/10,20,0.09,125,2281.17,Liz Greer,Washington,West,Training - SQL,1,0.54
+38117,4/20/10,28,0.01,200,5559.04,Mick Hopkins,Ohio,East,Development - Big Data,1,0.72
+38944,4/20/10,17,0.02,150,2505.78,Mitch Smayling,New Mexico,West,Consulting - Market Research,1,0.65
+38944,4/20/10,46,0.01,125,5707.94,Mitch Smayling,New Mexico,West,Training - Development,1,0.46
+38944,4/20/10,32,0.09,110,3211.89,Mitch Smayling,New Mexico,West,Development - Python,1,0.39
+40068,4/20/10,1,0.02,125,122.83,Jennifer Haines,California,West,Training - Development,1,0.54
+40068,4/20/10,2,0.1,200,360.98,Jennifer Haines,California,West,Development - Big Data,1,0.63
+40068,4/20/10,24,0,125,3008.14,Jennifer Haines,California,West,Training - Javascript,1,0.5
+57281,4/20/10,26,0.07,160,3879.3,Andy Herman,Washington,West,Development - Java,1,0.64
+57281,4/20/10,19,0.09,125,2167.11,Andy Herman,Washington,West,Training - Tableau,1,0.46
+13088,4/22/10,46,0.08,170,7214.28,Ben Molinari,Ohio,East,Development - .Net,1,0.64
+27687,4/22/10,38,0.1,160,5487.12,Maribeth Jones,Kentucky,South,Development - Java,1,0.56
+35142,4/22/10,11,0.03,125,1337.43,Joel McMath,Nebraska,Central,Training - SQL,1,0.64
+45412,4/22/10,20,0.06,150,2827.79,Arianne Norris,Tennessee,South,Consulting - Market Research,1,0.62
+13347,4/23/10,24,0.07,160,3581.15,Vivek Barchas,Maryland,East,Development - Java,1,0.58
+58854,4/24/10,35,0.03,125,4255.69,Arthur Nelson,New York,East,Training - Tableau,1,0.52
+58854,4/24/10,10,0,150,1504.22,Arthur Nelson,New York,East,Consulting - Market Research,1,0.53
+1058,4/25/10,3,0.07,150,419.69,Jim Nazzal,Virginia,South,Consulting - Market Research,1,0.61
+47175,4/25/10,40,0.1,120,4332.26,Jeremy Watters,North Carolina,South,Development - Business Logic,1,0.53
+47461,4/25/10,39,0.08,110,3958,Christopher Brandow,Colorado,West,Development - Python,1,0.35
+47461,4/25/10,34,0.08,160,5019,Christopher Brandow,Colorado,West,Development - Java,1,0.68
+47461,4/25/10,45,0.06,120,5090.4,Christopher Brandow,Colorado,West,Development - Business Logic,1,0.58
+1383,4/26/10,43,0.07,200,8020.89,Frank Catlett,Utah,West,Development - Big Data,1,0.71
+46624,4/26/10,28,0.07,200,5222.91,Keith Beeghly,Arkansas,South,Development - Scala,1,0.74
+46624,4/26/10,12,0.09,110,1204.64,Keith Beeghly,Arkansas,South,Development - Python,1,0.38
+49989,4/26/10,6,0.04,150,866.47,Dianna Stevenson,Rhode Island,East,Consulting - Business Model,1,0.66
+28512,4/27/10,11,0.09,150,1505.83,Lindsay DeVincentis,North Carolina,South,Consulting - Business Model,1,0.55
+28512,4/27/10,10,0.1,110,992.86,Lindsay DeVincentis,North Carolina,South,Development - Python,1,0.35
+28512,4/27/10,18,0.05,200,3429.87,Lindsay DeVincentis,North Carolina,South,Development - Big Data,1,0.75
+28643,4/27/10,16,0.09,160,2336.33,Thomas Ferrer,California,West,Development - Java,1,0.72
+14854,4/28/10,24,0.07,200,4477,Robert Drucker,Ohio,East,Development - Big Data,1,0.72
+17090,4/28/10,30,0.04,125,3610.48,Greg Maxwell,Indiana,Central,Training - Tableau,1,0.43
+17090,4/28/10,26,0.05,125,3096.49,Greg Maxwell,Indiana,Central,Training - Development,1,0.58
+40678,4/28/10,42,0.07,160,6267.8,Daniel Shonely,Nevada,West,Development - Java,1,0.68
+5569,4/29/10,12,0.09,125,1369.01,Frank Stugart,Illinois,Central,Training - SQL,1,0.46
+21319,4/29/10,11,0.03,200,2140.27,Chuck Gonzalez,Maine,East,Development - Big Data,1,0.74
+21319,4/29/10,5,0.01,150,744.68,Chuck Gonzalez,MA,East,Consulting - Compensation,1,0.66
+21319,4/29/10,42,0.04,125,5054.8,Chuck Gonzalez,Maine,East,Training - SQL,1,0.46
+23394,4/29/10,45,0.01,160,7148.93,Kean French,Ohio,East,Development - Java,1,0.63
+33857,4/29/10,18,0,110,1985.81,Troy Sayre,Florida,South,Development - Python,1,0.39
+38850,4/29/10,34,0.02,125,4177.23,Corey Cheatham,California,West,Training - Javascript,1,0.4
+14855,4/30/10,44,0.06,160,6637.2,John Ashbrook,Arkansas,South,Development - Java,1,0.56
